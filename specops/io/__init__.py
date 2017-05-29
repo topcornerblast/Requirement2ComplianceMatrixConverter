@@ -1,0 +1,4 @@
+READ_ONLY='r'
+WRITE_ONLY='w'
+APPEND='a'
+BINARY='b'
